@@ -1,0 +1,301 @@
+﻿Listing_ID,Seller_ID,Product_Name,Brand,Category,Condition,Storage_GB,RAM_GB,Purchase_Year,Warranty_Status,City,Seller_Rating,Asking_Price_INR,Original_Price_INR,Age_Years,Battery_Health,Days_Listed,Views,Wishlist_Count,Negotiation_Level,Sale_Status,Final_Price_INR,Customer_Type,Advertisement_Text,Manufacture_Code,Age,Favorite_Color
+L0001,S113,Nord,HP,Tablet,Excellent,1024,12,2018,Active,Pune,4.9,10658,21556,8,79,36,8,20,Low,Sold,8753,Student,Fast delivery | Free charger | Slight scratches,MFG-4257,8,Yellow
+L0002,S100,iPhone,HP,Laptop,Average,256,6,2025,Active,Bengaluru,3.5,76146,124974,1,72,26,,44,Low,Sold,73034,Student,Fast delivery | Free charger | Slight scratches,MFG-6881,1,Green
+L0003,S148,Galaxy S,Dell,Laptop,Average,1024,6,2026,Active,Pune,3.9,55115,84342,0,76,33,,27,High,Sold,52745,Student,Fast delivery | Free charger | Slight scratches,MFG-4814,0,Red
+L0004,S145,iPhone,HP,Laptop,Excellent,1024,32,2023,Active,Delhi,,36133,87869,3,81,31,44,7,High,Sold,34795,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7216,3,Green
+L0005,S129,Galaxy S,Lenovo,Laptop,Poor,256,4,2025,Active,Delhi,4,35385,72570,1,80,26,73,19,High,Unsold,33644,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7482,1,Yellow
+L0006,S133,Nord,Dell,Laptop,Poor,256,6,2024,Active,Delhi,3.9,25140,52452,2,90,37,221,21,Medium,Sold,24755,Student,Fast delivery | Free charger | Slight scratches,MFG-3504,2,Yellow
+L0007,S159,Mi Pad,OnePlus,Tablet,Excellent,64,32,2019,Expired,Nagpur,4.4,40307,125666,7,90,34,327,61,Medium,Sold,37903,Reseller,Fast delivery | Free charger | Slight scratches,MFG-3591,7,Black
+L0008,S113,Nord,OnePlus,Tablet,Good,128,8,2017,Active,Delhi,4.7,5876,84045,9,72,39,3,6,High,Sold,970,Business,Fast delivery | Free charger | Slight scratches,MFG-9005,9,Red
+L0009,S107,iPhone,Dell,Phone,Excellent,512,4,2018,Active,Mumbai,4.6,76825,110153,8,73,35,398,16,High,Unsold,72322,Professional,Fast delivery | Free charger | Slight scratches,MFG-5342,8,White
+L0010,S125,Nord,OnePlus,Laptop,Average,512,16,2026,Expired,Pune,4,34708,125923,0,83,29,57,20,Low,Sold,34184,Business,Fast delivery | Free charger | Slight scratches,MFG-1344,0,White
+L0011,S107,iPhone,Apple,Phone,Average,64,16,2025,Active,Bengaluru,3.3,33695,75323,1,20,26,67,28,High,Unsold,31940,Professional,Fast delivery | Free charger | Slight scratches,MFG-8744,1,Blue
+L0012,S154,Inspiron,Xiaomi,Tablet,Excellent,64,4,2024,Expired,Nagpur,4,59117,121708,2,82,33,358,15,Medium,Sold,57081,Professional,Fast delivery | Free charger | Slight scratches,MFG-4116,2,White
+L0013,S109,Inspiron,Lenovo,Tablet,Excellent,64,32,2024,Active,Pune,3.8,34617,51747,2,87,33,14,95,Low,Sold,31288,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8886,2,Blue
+L0014,S158,ThinkPad,Xiaomi,Tablet,Poor,128,6,2023,Expired,Mumbai,4.1,6415,30370,3,20,27,176,39,Low,Pending,1974,Student,Fast delivery | Free charger | Slight scratches,MFG-6138,3,Red
+L0015,S165,Galaxy S,Lenovo,Phone,Excellent,1024,4,2017,Active,Hyderabad,4.3,101508,139987,9,65,27,14,28,Low,Pending,99492,Student,Fast delivery | Free charger | Slight scratches,MFG-2343,9,Black
+L0016,S130,ThinkPad,Xiaomi,Phone,Average,512,8,2026,Active,Pune,4.6,42285,97934,0,94,22,26,29,Medium,Pending,37673,Student,Fast delivery | Free charger | Slight scratches,MFG-2200,0,White
+L0017,S131,ThinkPad,OnePlus,Phone,Poor,1024,32,2020,Expired,Delhi,4.6,89529,147614,6,72,33,59,,High,Pending,89465,Business,Fast delivery | Free charger | Slight scratches,MFG-2697,6,Blue
+L0018,S136,Mi Pad,Samsung,Tablet,Average,128,32,2021,Expired,Delhi,4.1,31398,45258,5,74,35,541,46,Medium,Unsold,30982,Student,Fast delivery | Free charger | Slight scratches,MFG-7939,5,Green
+L0019,S120,Nord,Xiaomi,Tablet,Poor,,4,2017,Active,Pune,4.1,3000,15929,9,71,29,423,35,High,Sold,-1469,Student,Fast delivery | Free charger | Slight scratches,MFG-7049,9,White
+L0020,S105,ThinkPad,Samsung,Tablet,Good,64,8,2025,Expired,Delhi,4,31288,53821,1,89,41,285,11,High,Sold,29349,Professional,Fast delivery | Free charger | Slight scratches,MFG-3900,1,Black
+L0021,S131,ThinkPad,Samsung,Tablet,Excellent,512,4,2017,Expired,Mumbai,4.7,12871,62018,9,82,28,314,8,Low,Unsold,10007,Business,Fast delivery | Free charger | Slight scratches,MFG-4728,9,Blue
+L0022,S135,ThinkPad,HP,Tablet,Poor,1024,8,2017,Active,Pune,4.2,33979,65627,9,84,33,107,64,Medium,Sold,29223,Business,Fast delivery | Free charger | Slight scratches,MFG-1626,9,Red
+L0023,S165,Galaxy S,Xiaomi,Tablet,Good,256,4,2026,Expired,Pune,4.5,30842,128918,0,77,13,93,26,High,Pending,,Business,Fast delivery | Free charger | Slight scratches,MFG-8066,0,Red
+L0024,S164,ThinkPad,HP,Laptop,Average,512,32,2022,Expired,Delhi,3.6,18013,97291,4,78,18,220,37,Low,Sold,14569,Reseller,Fast delivery | Free charger | Slight scratches,MFG-3851,4,White
+L0025,S126,Inspiron,Lenovo,Tablet,Average,512,12,2026,Expired,Nagpur,3.8,58147,93892,0,61,36,237,28,Low,Pending,54271,Professional,Fast delivery | Free charger | Slight scratches,MFG-2389,0,Green
+L0026,S139,iPhone,Lenovo,Phone,Good,64,4,2025,Active,Hyderabad,4.8,42567,102867,1,78,31,119,48,High,Sold,38837,Reseller,Fast delivery | Free charger | Slight scratches,MFG-4185,1,Yellow
+L0027,S113,Inspiron,Samsung,Phone,Poor,64,16,2023,Active,Pune,2.7,23257,144598,3,,24,96,43,Medium,Sold,19451,Business,Fast delivery | Free charger | Slight scratches,MFG-8251,3,White
+L0028,S160,Inspiron,OnePlus,Phone,Average,1024,12,2025,Active,Bengaluru,5,12507,126867,1,95,33,70,26,Medium,Sold,10167,Professional,Fast delivery | Free charger | Slight scratches,MFG-5451,1,Green
+L0029,S127,Galaxy S,Xiaomi,Laptop,Average,1024,12,2022,Expired,Pune,5,18715,36122,4,83,41,73,,Low,Unsold,15525,Student,Fast delivery | Free charger | Slight scratches,MFG-7232,4,Black
+L0030,S153,Mi Pad,HP,Tablet,Good,512,6,2017,Expired,Hyderabad,4.4,28893,107211,9,75,35,178,18,Medium,Sold,25708,Business,Fast delivery | Free charger | Slight scratches,MFG-7624,9,Yellow
+L0031,S150,Mi Pad,Dell,Tablet,Excellent,64,32,2019,Expired,Mumbai,3.9,52686,137523,7,88,40,79,58,Medium,Sold,52275,Business,Fast delivery | Free charger | Slight scratches,MFG-7211,7,Green
+L0032,S153,ThinkPad,Lenovo,Phone,Poor,64,32,2020,Active,Bengaluru,4.1,93261,134196,6,82,21,262,47,Low,Pending,92699,Student,Fast delivery | Free charger | Slight scratches,MFG-1508,6,Blue
+L0033,S114,Mi Pad,Samsung,Laptop,Average,256,6,2020,Active,Mumbai,3.7,10521,20342,6,87,34,89,10,Medium,Sold,5781,Student,Fast delivery | Free charger | Slight scratches,MFG-6111,6,White
+L0034,S180,iPhone,Apple,Tablet,Average,1024,4,2023,Active,Bengaluru,4.5,30572,118980,3,78,22,18,44,High,Unsold,27537,Student,Fast delivery | Free charger | Slight scratches,MFG-9289,3,Yellow
+L0035,S146,Nord,Lenovo,Laptop,Good,512,6,2022,Expired,Delhi,3.6,12379,18316,4,84,34,647,6,High,Unsold,,Reseller,Fast delivery | Free charger | Slight scratches,MFG-5397,4,Green
+L0036,S172,Mi Pad,HP,Laptop,Average,64,12,2020,Expired,Mumbai,4.5,25551,37718,6,81,44,8,58,Medium,Sold,22645,Business,Fast delivery | Free charger | Slight scratches,MFG-6576,6,Green
+L0037,S130,Nord,Xiaomi,Laptop,Good,512,32,2026,Expired,Hyderabad,4.2,49754,87422,0,84,32,11,25,Low,Sold,47344,Professional,Fast delivery | Free charger | Slight scratches,MFG-7625,0,Yellow
+L0038,S144,Inspiron,HP,Tablet,Average,256,32,2020,Expired,Bengaluru,4.6,30262,95270,6,100,26,6,22,Medium,Unsold,28374,Student,Fast delivery | Free charger | Slight scratches,MFG-4155,6,Green
+L0039,S175,Mi Pad,Dell,Laptop,Excellent,128,8,2018,Active,Bengaluru,3.8,4756,63535,8,85,42,55,81,Low,Unsold,4641,Professional,Fast delivery | Free charger | Slight scratches,MFG-5494,8,Red
+L0040,S162,Galaxy S,Lenovo,Phone,Average,512,12,2017,Expired,Bengaluru,4.1,34315,91581,9,80,31,6,23,Low,Sold,32247,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2869,9,Red
+L0041,S119,Mi Pad,OnePlus,Phone,Good,64,16,2023,Expired,Delhi,4,32401,143908,3,82,29,,25,High,Pending,30553,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8381,3,Black
+L0042,S112,iPhone,HP,Phone,Average,64,6,2021,Active,Mumbai,4.1,92142,127415,5,87,30,144,12,High,Sold,90860,Student,Fast delivery | Free charger | Slight scratches,MFG-7693,5,Black
+L0043,S158,Galaxy S,HP,Phone,Average,1024,32,2026,Active,Hyderabad,4.5,78918,138184,0,79,33,21,48,Low,Pending,77077,Professional,Fast delivery | Free charger | Slight scratches,MFG-5352,0,Blue
+L0044,S172,ThinkPad,Xiaomi,Phone,Poor,256,32,2018,Expired,Bengaluru,3.2,26080,30633,8,96,28,351,29,High,Pending,22035,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2317,8,White
+L0045,S129,Nord,Lenovo,Tablet,Excellent,,16,2017,Active,Mumbai,4.4,13093,128253,9,61,24,150,23,Medium,Pending,9471,Business,Fast delivery | Free charger | Slight scratches,MFG-3973,9,White
+L0046,S141,Nord,Apple,Phone,Average,512,32,2023,Expired,Bengaluru,3.9,12474,143902,3,78,22,32,12,High,Unsold,7968,Student,Fast delivery | Free charger | Slight scratches,MFG-8451,3,Red
+L0047,S165,Galaxy S,HP,Tablet,Poor,512,4,2022,Active,Delhi,4.1,38724,81164,4,75,35,310,29,Medium,Pending,34641,Reseller,Fast delivery | Free charger | Slight scratches,MFG-1845,4,Blue
+L0048,S115,Galaxy S,HP,Tablet,Good,128,8,2021,Active,Delhi,3.2,21109,49344,5,69,30,144,14,Medium,Sold,19269,Student,Fast delivery | Free charger | Slight scratches,MFG-8560,5,Red
+L0049,S153,Inspiron,Xiaomi,Phone,Poor,1024,6,2019,Expired,Mumbai,3.9,75740,145646,7,74,31,3,6,High,Pending,74622,Student,Fast delivery | Free charger | Slight scratches,MFG-5526,7,Black
+L0050,S175,Mi Pad,HP,Laptop,Good,512,16,2022,Expired,Bengaluru,4.9,43945,148100,4,20,26,132,17,Medium,Pending,39494,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8460,4,Green
+L0051,S105,ThinkPad,HP,Laptop,Poor,512,32,2020,Active,Hyderabad,4,59384,77601,6,87,26,24,14,Low,Sold,55270,Business,Fast delivery | Free charger | Slight scratches,MFG-2644,6,Black
+L0052,S119,Galaxy S,Xiaomi,Laptop,Average,1024,32,2018,Expired,Nagpur,4,301430,134780,8,81,40,254,13,Low,Unsold,297059,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6188,8,Yellow
+L0053,S136,iPhone,HP,Phone,Poor,64,32,2024,Active,Hyderabad,4.3,3000,24410,2,74,26,106,3,Low,Pending,547,Student,Fast delivery | Free charger | Slight scratches,MFG-1753,2,Green
+L0054,S152,Mi Pad,HP,Phone,Good,128,4,2017,Expired,Delhi,4.5,6250,91904,9,65,34,61,15,High,Sold,2174,Professional,Fast delivery | Free charger | Slight scratches,MFG-4804,9,Black
+L0055,S136,Nord,Dell,Phone,Excellent,512,8,2021,Expired,Nagpur,4.2,6503,135473,5,20,31,417,15,Medium,Pending,4455,Reseller,Fast delivery | Free charger | Slight scratches,MFG-5949,5,Blue
+L0056,S137,Nord,OnePlus,Phone,Poor,256,4,2023,Active,Delhi,4.7,63601,141670,3,,28,26,37,High,Unsold,61257,Professional,Fast delivery | Free charger | Slight scratches,MFG-6772,3,Blue
+L0057,S117,Nord,Apple,Tablet,Excellent,256,12,2020,Active,Delhi,4.3,52129,80700,6,63,28,206,18,Medium,Pending,51053,Student,Fast delivery | Free charger | Slight scratches,MFG-5835,6,Green
+L0058,S146,Mi Pad,Dell,Laptop,Good,256,12,2023,Expired,Nagpur,4,29802,61042,3,84,32,148,11,Medium,Sold,25966,Student,Fast delivery | Free charger | Slight scratches,MFG-3306,3,Blue
+L0059,S115,Inspiron,OnePlus,Tablet,Average,1024,12,2023,Expired,Pune,4.4,42369,110885,3,90,27,5,,High,Sold,38507,Student,Fast delivery | Free charger | Slight scratches,MFG-6374,3,White
+L0060,S152,Galaxy S,Samsung,Phone,Excellent,256,12,2020,Active,Pune,4.6,8984,31571,6,77,33,39,48,Low,Pending,7873,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8432,6,Green
+L0061,S112,Inspiron,Dell,Laptop,Average,64,32,2025,Expired,Mumbai,4.3,54385,124871,1,64,30,92,66,Medium,Unsold,52451,Business,Fast delivery | Free charger | Slight scratches,MFG-2627,1,Yellow
+L0062,S158,Galaxy S,HP,Phone,Excellent,64,8,2022,Active,Mumbai,3.7,8815,109024,4,87,29,184,30,High,Sold,8253,Professional,Fast delivery | Free charger | Slight scratches,MFG-4538,4,Blue
+L0063,S118,iPhone,Dell,Laptop,Good,64,32,2022,Active,Mumbai,4.1,11704,53680,4,82,35,134,52,Low,Unsold,9755,Business,Fast delivery | Free charger | Slight scratches,MFG-1258,4,Blue
+L0064,S108,Inspiron,Xiaomi,Laptop,Excellent,,16,2021,Active,Delhi,3.8,6146,28736,5,58,25,63,58,Low,Pending,1875,Business,Fast delivery | Free charger | Slight scratches,MFG-8504,5,Yellow
+L0065,S113,Inspiron,HP,Laptop,Excellent,64,8,2017,Active,Pune,4.1,11720,30945,9,79,30,130,41,Low,Unsold,6925,Business,Fast delivery | Free charger | Slight scratches,MFG-7240,9,White
+L0066,S114,Nord,HP,Tablet,Good,512,12,2025,Active,Hyderabad,3.7,25607,92305,1,88,35,34,115,Medium,Unsold,22341,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2557,1,Green
+L0067,S160,Galaxy S,Apple,Phone,Excellent,512,4,2023,Expired,Mumbai,3.6,3000,96926,3,78,32,296,18,High,Sold,-1804,Business,Fast delivery | Free charger | Slight scratches,MFG-3002,3,Black
+L0068,S176,ThinkPad,OnePlus,Phone,Good,128,32,2022,Expired,Mumbai,,24385,125870,4,74,35,4,13,Low,Unsold,19829,Business,Fast delivery | Free charger | Slight scratches,MFG-2882,4,Green
+L0069,S179,Mi Pad,HP,Tablet,Excellent,,32,2026,Expired,Pune,3.7,8738,74286,0,89,25,265,34,Low,Unsold,6207,Business,Fast delivery | Free charger | Slight scratches,MFG-6751,0,Red
+L0070,S103,Galaxy S,HP,Tablet,Good,512,12,2019,Expired,Bengaluru,3.8,40602,52552,7,99,31,255,7,Low,Unsold,38050,Business,Fast delivery | Free charger | Slight scratches,MFG-2391,7,Red
+L0071,S156,Nord,Xiaomi,Laptop,Poor,512,8,2019,Active,Delhi,4.2,3916,56264,7,84,38,216,23,Low,Unsold,395,Student,Fast delivery | Free charger | Slight scratches,MFG-5640,7,Yellow
+L0072,S176,Galaxy S,Apple,Phone,Average,128,6,2026,Expired,Bengaluru,4.2,43839,142567,0,88,22,22,7,Medium,Sold,43776,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8055,0,Blue
+L0073,S145,Galaxy S,Xiaomi,Tablet,Excellent,512,4,2019,Expired,Pune,3.4,86281,114669,7,84,30,137,49,Medium,Pending,82765,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7843,7,Green
+L0074,S179,Inspiron,Lenovo,Tablet,Average,64,12,2018,Active,Mumbai,3.8,22984,121176,8,83,34,42,5,Medium,Pending,19704,Student,Fast delivery | Free charger | Slight scratches,MFG-7484,8,Green
+L0075,S114,Mi Pad,Dell,Phone,Average,256,32,2022,Active,Mumbai,,23673,73083,4,89,32,45,15,Low,Sold,,Professional,Fast delivery | Free charger | Slight scratches,MFG-3842,4,White
+L0076,S172,Mi Pad,Xiaomi,Tablet,Average,256,6,2019,Expired,Pune,4.4,10038,34753,7,100,33,85,24,Medium,Unsold,7558,Business,Fast delivery | Free charger | Slight scratches,MFG-1920,7,Green
+L0077,S136,Galaxy S,HP,Phone,Poor,512,16,2025,Active,Hyderabad,,20611,34448,1,79,31,22,23,High,Pending,19069,Business,Fast delivery | Free charger | Slight scratches,MFG-8792,1,White
+L0078,S110,Mi Pad,HP,Phone,Excellent,128,32,2019,Expired,Hyderabad,4.6,13647,31219,7,77,27,100,39,High,Pending,8652,Professional,Fast delivery | Free charger | Slight scratches,MFG-6962,7,Green
+L0079,S180,Nord,OnePlus,Phone,Average,64,16,2021,Expired,Bengaluru,4,48359,116558,5,88,32,279,47,Medium,Pending,43422,Professional,Fast delivery | Free charger | Slight scratches,MFG-6461,5,Red
+L0080,S150,iPhone,Dell,Tablet,Excellent,256,16,2026,Expired,Nagpur,4.6,5650,52074,0,86,32,234,3,Medium,Sold,1338,Student,Fast delivery | Free charger | Slight scratches,MFG-7937,0,White
+L0081,S162,iPhone,Samsung,Phone,Good,64,8,2022,Active,Delhi,4.8,8376,19779,4,92,32,240,16,High,Pending,4063,Student,Fast delivery | Free charger | Slight scratches,MFG-6517,4,White
+L0082,S179,iPhone,HP,Laptop,Excellent,512,8,2019,Active,Hyderabad,3.3,34187,113754,7,,33,50,12,High,Unsold,30510,Professional,Fast delivery | Free charger | Slight scratches,MFG-9749,7,Blue
+L0083,S173,Inspiron,Xiaomi,Laptop,Poor,1024,16,2021,Expired,Mumbai,4.3,14520,137949,5,79,32,94,33,Low,Pending,13387,Business,Fast delivery | Free charger | Slight scratches,MFG-1854,5,Yellow
+L0084,S115,ThinkPad,Apple,Phone,Average,512,16,2024,Active,Hyderabad,4.1,62419,112311,2,76,28,226,,Low,Sold,58724,Business,Fast delivery | Free charger | Slight scratches,MFG-1436,2,Black
+L0085,S147,iPhone,Apple,Laptop,Excellent,256,6,2017,Active,Pune,3.9,22205,118928,9,84,33,134,5,Medium,Unsold,21069,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8349,9,White
+L0086,S177,Mi Pad,Xiaomi,Phone,Average,128,8,2017,Active,Pune,4.2,112910,35768,9,69,33,192,11,Low,Unsold,109166,Student,Fast delivery | Free charger | Slight scratches,MFG-2816,9,Black
+L0087,S137,Inspiron,Apple,Tablet,Average,128,16,2026,Expired,Mumbai,4.5,4698,19308,0,77,35,169,51,High,Pending,3997,Business,Fast delivery | Free charger | Slight scratches,MFG-2108,0,White
+L0088,S160,Galaxy S,HP,Laptop,Average,256,32,2025,Active,Bengaluru,4.9,,147992,1,89,24,179,50,Low,Unsold,37805,Student,Fast delivery | Free charger | Slight scratches,MFG-6447,1,Blue
+L0089,S159,Nord,Xiaomi,Tablet,Good,128,4,2017,Expired,Pune,4.3,35839,107353,9,85,32,267,18,Medium,Sold,35481,Professional,Fast delivery | Free charger | Slight scratches,MFG-1686,9,Green
+L0090,S124,ThinkPad,OnePlus,Phone,Average,256,4,2021,Expired,Hyderabad,4.2,26935,119392,5,84,22,214,36,Medium,Pending,23333,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6554,5,Blue
+L0091,S110,Nord,Xiaomi,Phone,Poor,1024,6,2024,Expired,Bengaluru,3.9,40439,145422,2,83,34,63,13,Low,Sold,37753,Business,Fast delivery | Free charger | Slight scratches,MFG-6021,2,Black
+L0092,S145,Mi Pad,Xiaomi,Laptop,Excellent,64,32,2026,Expired,Bengaluru,,59875,126703,0,61,35,172,17,High,Pending,58565,Student,Fast delivery | Free charger | Slight scratches,MFG-3339,0,White
+L0093,S146,Inspiron,Dell,Phone,Good,,8,2024,Expired,Hyderabad,4.2,7703,24122,2,76,32,47,39,Low,Pending,6576,Business,Fast delivery | Free charger | Slight scratches,MFG-7521,2,Green
+L0094,S166,Inspiron,Dell,Phone,Average,256,32,2021,Expired,Mumbai,4.4,45904,80434,5,82,35,68,20,High,Unsold,41881,Professional,Fast delivery | Free charger | Slight scratches,MFG-3009,5,Blue
+L0095,S140,Nord,OnePlus,Tablet,Excellent,1024,16,2018,Expired,Bengaluru,,39630,133500,8,95,30,4,29,Low,Pending,38204,Business,Fast delivery | Free charger | Slight scratches,MFG-9335,8,Blue
+L0096,S146,Mi Pad,Dell,Laptop,Poor,1024,6,2018,Active,Pune,3.9,39064,67685,8,74,29,130,24,Medium,Unsold,35143,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7708,8,White
+L0097,S166,ThinkPad,Samsung,Tablet,Good,128,12,2018,Active,Pune,4.4,29865,47853,8,57,22,51,43,High,Sold,27374,Professional,Fast delivery | Free charger | Slight scratches,MFG-3653,8,Green
+L0098,S110,ThinkPad,Samsung,Tablet,Average,128,32,2020,Expired,Delhi,4.1,77101,105707,6,73,23,64,25,High,Sold,72984,Professional,Fast delivery | Free charger | Slight scratches,MFG-3526,6,Blue
+L0099,S103,Galaxy S,Apple,Tablet,Average,128,16,2026,Expired,Delhi,4.6,33739,103504,0,87,41,16,63,High,Sold,29660,Business,Fast delivery | Free charger | Slight scratches,MFG-5949,0,Black
+L0100,S156,Inspiron,Xiaomi,Laptop,Good,256,16,2020,Active,Bengaluru,4.3,74736,121454,6,76,36,252,52,High,Unsold,71907,Reseller,Fast delivery | Free charger | Slight scratches,MFG-3142,6,Green
+L0101,S131,iPhone,Apple,Phone,Average,512,16,2025,Expired,Mumbai,4,14007,42835,1,83,27,9,14,Low,Unsold,9275,Business,Fast delivery | Free charger | Slight scratches,MFG-4110,1,Blue
+L0102,S111,Inspiron,Dell,Laptop,Good,128,16,2024,Expired,Pune,3.7,51502,149932,2,72,33,841,42,Low,Unsold,47448,Reseller,Fast delivery | Free charger | Slight scratches,MFG-5681,2,White
+L0103,S151,ThinkPad,Apple,Laptop,Excellent,1024,16,2017,Active,Bengaluru,4.9,22667,43179,9,65,31,194,16,High,Unsold,22065,Reseller,Fast delivery | Free charger | Slight scratches,MFG-9261,9,Black
+L0104,S116,Galaxy S,Xiaomi,Laptop,Average,1024,8,2025,Active,Mumbai,4.4,16338,88327,1,65,32,134,15,High,Pending,13050,Student,Fast delivery | Free charger | Slight scratches,MFG-1742,1,Red
+L0105,S165,iPhone,OnePlus,Tablet,Average,128,12,2019,Expired,Delhi,4.7,12947,102304,7,84,37,40,24,Medium,Pending,8772,Reseller,Fast delivery | Free charger | Slight scratches,MFG-5911,7,Black
+L0106,S139,Nord,Lenovo,Tablet,Excellent,1024,12,2017,Expired,Nagpur,4.7,4406,111562,9,85,29,44,23,High,Pending,2542,Student,Fast delivery | Free charger | Slight scratches,MFG-8871,9,Blue
+L0107,S114,iPhone,Apple,Laptop,Average,,6,2025,Expired,Nagpur,4,28157,114664,1,69,33,264,5,Low,Unsold,24047,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2020,1,Yellow
+L0108,S148,ThinkPad,Samsung,Laptop,Average,1024,8,2019,Expired,Delhi,4.1,25455,69353,7,85,19,304,59,Medium,Sold,23436,Business,Fast delivery | Free charger | Slight scratches,MFG-5890,7,Blue
+L0109,S161,ThinkPad,Dell,Tablet,Average,256,4,2021,Expired,Hyderabad,4.4,18707,90760,5,81,30,106,47,Medium,Sold,16328,Student,Fast delivery | Free charger | Slight scratches,MFG-5712,5,Yellow
+L0110,S127,iPhone,Lenovo,Tablet,Average,1024,32,2018,Expired,Mumbai,4.3,19749,105797,8,72,29,167,39,Low,Pending,14942,Professional,Fast delivery | Free charger | Slight scratches,MFG-4972,8,Red
+L0111,S160,Galaxy S,HP,Phone,Excellent,1024,6,2025,Expired,Nagpur,4.2,13393,74158,1,86,31,172,106,Medium,Unsold,11760,Business,Fast delivery | Free charger | Slight scratches,MFG-6262,1,Green
+L0112,S104,iPhone,Xiaomi,Phone,Excellent,512,12,2017,Active,Nagpur,4.7,13766,38451,9,71,35,,71,Medium,Sold,13691,Business,Fast delivery | Free charger | Slight scratches,MFG-2758,9,Green
+L0113,S117,Mi Pad,Xiaomi,Laptop,Good,64,8,2021,Active,Nagpur,4.5,50038,134104,5,91,29,165,38,Medium,Pending,47931,Professional,Fast delivery | Free charger | Slight scratches,MFG-1230,5,Yellow
+L0114,S151,Inspiron,Dell,Laptop,Excellent,512,32,2022,Active,Mumbai,3.5,53695,92338,4,69,28,178,4,Low,Unsold,51045,Professional,Fast delivery | Free charger | Slight scratches,MFG-1111,4,Green
+L0115,S174,Nord,Dell,Phone,Average,256,32,2023,Active,Pune,4.1,13084,76740,3,92,30,93,49,High,Sold,9272,Business,Fast delivery | Free charger | Slight scratches,MFG-3616,3,Black
+L0116,S147,Mi Pad,Samsung,Phone,Good,512,6,2025,Expired,Nagpur,4.1,38535,96521,1,100,40,217,41,High,Unsold,35129,Reseller,Fast delivery | Free charger | Slight scratches,MFG-9806,1,Yellow
+L0117,S167,Inspiron,Dell,Tablet,Average,64,16,2020,Active,Pune,3.7,46283,79871,6,79,31,44,10,High,Pending,44627,Professional,Fast delivery | Free charger | Slight scratches,MFG-3695,6,Green
+L0118,S111,Mi Pad,Xiaomi,Phone,Poor,128,16,2025,Expired,Hyderabad,5,68046,130825,1,80,22,171,22,High,Sold,63469,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6049,1,Yellow
+L0119,S109,Galaxy S,Xiaomi,Laptop,Excellent,1024,4,2017,Active,Hyderabad,4,50829,118795,9,20,32,119,27,Low,Unsold,47480,Professional,Fast delivery | Free charger | Slight scratches,MFG-3218,9,Yellow
+L0120,S148,Inspiron,Apple,Tablet,Good,256,4,2023,Active,Delhi,4.5,31911,113162,3,93,26,345,19,Medium,Pending,30868,Professional,Fast delivery | Free charger | Slight scratches,MFG-1056,3,Red
+L0121,S129,iPhone,Xiaomi,Laptop,Good,256,6,2021,Active,Pune,4.3,47540,136373,5,84,37,90,8,High,Unsold,47412,Professional,Fast delivery | Free charger | Slight scratches,MFG-4376,5,Red
+L0122,S131,Nord,Apple,Laptop,Poor,128,16,2018,Active,Pune,3.9,8961,23801,8,96,29,103,33,Low,Pending,6592,Professional,Fast delivery | Free charger | Slight scratches,MFG-6224,8,White
+L0123,S166,iPhone,Xiaomi,Laptop,Average,64,16,2026,Active,Nagpur,4.2,28233,99060,0,76,20,38,10,High,Unsold,23680,Reseller,Fast delivery | Free charger | Slight scratches,MFG-1768,0,Green
+L0124,S123,Mi Pad,Xiaomi,Phone,Good,256,32,2023,Active,Hyderabad,3.6,15120,98554,3,83,31,114,8,Low,Pending,11740,Reseller,Fast delivery | Free charger | Slight scratches,MFG-9683,3,Blue
+L0125,S157,ThinkPad,Apple,Tablet,Good,64,8,2023,Expired,Nagpur,4.1,20566,78663,3,87,34,33,11,High,Pending,20243,Student,Fast delivery | Free charger | Slight scratches,MFG-4082,3,White
+L0126,S101,iPhone,Samsung,Tablet,Excellent,512,6,2025,Active,Hyderabad,4.6,20468,71889,1,67,30,733,26,Low,Pending,17834,Business,Fast delivery | Free charger | Slight scratches,MFG-7236,1,Black
+L0127,S159,Galaxy S,Lenovo,Tablet,Poor,256,6,2025,Expired,Bengaluru,3.8,51064,109177,1,89,31,5,48,Medium,Sold,46456,Professional,Fast delivery | Free charger | Slight scratches,MFG-3390,1,Red
+L0128,S172,iPhone,Xiaomi,Tablet,Average,256,12,2021,Expired,Hyderabad,4.2,6951,124465,5,70,28,377,30,Low,Pending,4066,Professional,Fast delivery | Free charger | Slight scratches,MFG-3293,5,Yellow
+L0129,S107,Mi Pad,Apple,Phone,Excellent,64,12,2025,Active,Nagpur,4.2,,143009,1,80,32,28,13,Low,Sold,54087,Student,Fast delivery | Free charger | Slight scratches,MFG-4583,1,White
+L0130,S161,Nord,Xiaomi,Phone,Excellent,,16,2024,Expired,Pune,4.2,17432,112832,2,78,28,28,1,Low,Pending,15182,Business,Fast delivery | Free charger | Slight scratches,MFG-1280,2,White
+L0131,S124,Mi Pad,Dell,Laptop,Average,256,12,2023,Active,Bengaluru,3.7,20099,61993,3,82,32,86,2,Medium,Unsold,15471,Professional,Fast delivery | Free charger | Slight scratches,MFG-4700,3,Green
+L0132,S107,Nord,Apple,Tablet,Good,64,12,2018,Expired,Nagpur,4,14044,23305,8,81,27,8,15,Medium,Pending,13263,Student,Fast delivery | Free charger | Slight scratches,MFG-4764,8,Blue
+L0133,S135,Mi Pad,Dell,Tablet,Excellent,128,8,2026,Active,Mumbai,3.1,40669,139649,0,86,23,54,55,High,Sold,37407,Student,Fast delivery | Free charger | Slight scratches,MFG-5903,0,Blue
+L0134,S169,ThinkPad,Xiaomi,Tablet,Good,64,16,2026,Expired,Pune,4.5,48688,78038,0,70,29,263,46,Low,Unsold,46787,Student,Fast delivery | Free charger | Slight scratches,MFG-6580,0,White
+L0135,S157,Inspiron,Samsung,Laptop,Poor,512,6,2026,Expired,Pune,4.7,28466,118993,0,81,21,17,37,High,Unsold,26448,Student,Fast delivery | Free charger | Slight scratches,MFG-2344,0,Green
+L0136,S140,ThinkPad,Apple,Phone,Excellent,256,12,2019,Expired,Bengaluru,3.2,25783,114614,7,73,35,70,11,Low,Sold,25068,Professional,Fast delivery | Free charger | Slight scratches,MFG-8061,7,Black
+L0137,S111,Mi Pad,Dell,Laptop,Poor,64,8,2025,Expired,Hyderabad,4.8,18919,149333,1,100,20,161,15,Low,Pending,14336,Professional,Fast delivery | Free charger | Slight scratches,MFG-9537,1,Blue
+L0138,S108,iPhone,Xiaomi,Laptop,Poor,256,12,2023,Active,Bengaluru,4,36888,59433,3,99,20,6,29,Medium,Sold,32827,Professional,Fast delivery | Free charger | Slight scratches,MFG-8501,3,Red
+L0139,S148,ThinkPad,Xiaomi,Laptop,Poor,1024,6,2019,Expired,Bengaluru,4.7,119420,94864,7,71,26,28,36,High,Pending,117775,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6147,7,Blue
+L0140,S173,iPhone,OnePlus,Laptop,Average,512,8,2023,Active,Delhi,3.8,41752,98660,3,95,32,34,30,Low,Pending,37283,Professional,Fast delivery | Free charger | Slight scratches,MFG-1440,3,Yellow
+L0141,S152,Nord,Xiaomi,Phone,Average,128,8,2024,Active,Nagpur,4,,69958,2,97,40,250,36,Medium,Unsold,11791,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8851,2,White
+L0142,S104,ThinkPad,HP,Tablet,Excellent,64,6,2023,Expired,Mumbai,4.1,78019,147805,3,62,38,429,16,High,Pending,77657,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6432,3,Black
+L0143,S171,Mi Pad,HP,Tablet,Good,512,8,2018,Expired,Hyderabad,4.4,11108,17765,8,80,35,211,30,High,Pending,7009,Professional,Fast delivery | Free charger | Slight scratches,MFG-6651,8,Red
+L0144,S118,ThinkPad,OnePlus,Laptop,Poor,128,16,2024,Expired,Bengaluru,4.2,19697,42406,2,82,36,6,23,Medium,Sold,16108,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6225,2,Red
+L0145,S113,Nord,Lenovo,Phone,Good,1024,6,2021,Active,Bengaluru,4.5,15665,26713,5,84,32,52,116,High,Unsold,11880,Professional,Fast delivery | Free charger | Slight scratches,MFG-7636,5,Yellow
+L0146,S178,iPhone,Xiaomi,Tablet,Poor,512,4,2019,Active,Mumbai,4,31435,63860,7,81,31,,59,Medium,Pending,30923,Student,Fast delivery | Free charger | Slight scratches,MFG-9796,7,Blue
+L0147,S162,Mi Pad,HP,Laptop,Poor,1024,12,2022,Active,Bengaluru,3.8,13785,100454,4,80,43,214,25,Medium,Unsold,12372,Business,Fast delivery | Free charger | Slight scratches,MFG-2388,4,Yellow
+L0148,S118,Mi Pad,Xiaomi,Laptop,Good,1024,12,2019,Expired,Mumbai,3.3,55449,97099,7,73,38,841,12,Medium,Pending,51047,Professional,Fast delivery | Free charger | Slight scratches,MFG-3733,7,Black
+L0149,S145,Galaxy S,Xiaomi,Phone,Good,512,16,2021,Expired,Hyderabad,4,19523,51777,5,66,32,237,58,High,Unsold,16119,Reseller,Fast delivery | Free charger | Slight scratches,MFG-9006,5,Blue
+L0150,S128,Mi Pad,OnePlus,Phone,Poor,1024,32,2018,Expired,Delhi,4.6,12036,23089,8,,30,169,14,High,Sold,7345,Student,Fast delivery | Free charger | Slight scratches,MFG-5389,8,White
+L0151,S154,Galaxy S,HP,Tablet,Good,256,4,2022,Expired,Bengaluru,3.9,10939,25907,4,82,21,87,65,Medium,Sold,7343,Student,Fast delivery | Free charger | Slight scratches,MFG-4882,4,Blue
+L0152,S178,iPhone,Lenovo,Phone,Good,64,16,2026,Expired,Delhi,4.3,7693,106915,0,87,36,151,18,Medium,Pending,3280,Professional,Fast delivery | Free charger | Slight scratches,MFG-6302,0,Yellow
+L0153,S112,iPhone,Lenovo,Laptop,Excellent,256,32,2021,Active,Nagpur,3.5,,90846,5,83,36,53,17,Low,Sold,41908,Business,Fast delivery | Free charger | Slight scratches,MFG-5055,5,Yellow
+L0154,S148,Inspiron,Apple,Tablet,Excellent,512,16,2023,Expired,Nagpur,4.6,,143308,3,84,24,102,18,Medium,Unsold,24988,Business,Fast delivery | Free charger | Slight scratches,MFG-1040,3,Yellow
+L0155,S168,Inspiron,Samsung,Laptop,Good,512,8,2018,Expired,Bengaluru,4.1,55662,135179,8,94,26,10,23,Medium,Pending,50928,Professional,Fast delivery | Free charger | Slight scratches,MFG-8951,8,Green
+L0156,S115,iPhone,Xiaomi,Laptop,Excellent,512,6,2017,Active,Nagpur,4.2,9721,27043,9,76,28,9,24,Medium,Sold,7477,Student,Fast delivery | Free charger | Slight scratches,MFG-6905,9,Green
+L0157,S180,ThinkPad,HP,Tablet,Good,512,32,2018,Active,Nagpur,4,19744,112476,8,87,32,8,5,Low,Sold,17996,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2276,8,Blue
+L0158,S143,Galaxy S,Lenovo,Laptop,Good,512,4,2026,Active,Hyderabad,4.5,,74294,0,73,31,2500,19,Low,Pending,2898,Student,Fast delivery | Free charger | Slight scratches,MFG-6133,0,Green
+L0159,S118,Galaxy S,Dell,Tablet,Excellent,1024,32,2021,Active,Hyderabad,4.2,12800,50947,5,88,30,184,12,Medium,Pending,11055,Professional,Fast delivery | Free charger | Slight scratches,MFG-7745,5,White
+L0160,S175,Nord,Xiaomi,Laptop,Poor,256,6,2024,Active,Bengaluru,3.9,9603,71949,2,74,35,107,26,High,Sold,7571,Business,Fast delivery | Free charger | Slight scratches,MFG-1439,2,Yellow
+L0161,S137,Nord,Apple,Phone,Poor,512,4,2021,Active,Hyderabad,4.1,30915,68856,5,72,37,109,31,High,Pending,30334,Student,Fast delivery | Free charger | Slight scratches,MFG-6916,5,Green
+L0162,S122,Inspiron,Lenovo,Phone,Excellent,1024,4,2019,Active,Bengaluru,3.8,51998,116407,7,81,33,359,13,Low,Sold,51503,Reseller,Fast delivery | Free charger | Slight scratches,MFG-9300,7,Green
+L0163,S168,Mi Pad,Samsung,Laptop,Excellent,256,4,2025,Active,Mumbai,4.7,45539,123903,1,67,28,236,81,High,Unsold,42339,Student,Fast delivery | Free charger | Slight scratches,MFG-6081,1,Yellow
+L0164,S158,Mi Pad,Dell,Phone,Average,128,4,2023,Active,Nagpur,4,12232,77557,3,90,38,354,17,Low,Pending,12140,Professional,Fast delivery | Free charger | Slight scratches,MFG-9133,3,Green
+L0165,S134,Nord,Apple,Phone,Average,512,8,2025,Active,Bengaluru,4.8,10307,82960,1,71,33,321,25,High,Pending,9676,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8457,1,White
+L0166,S132,Galaxy S,Dell,Tablet,Excellent,128,32,2022,Active,Pune,3.8,5796,29533,4,99,31,331,29,Low,Sold,5420,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6963,4,Black
+L0167,S153,iPhone,OnePlus,Phone,Poor,256,8,2019,Active,Delhi,4.2,19800,61913,7,80,24,66,59,Medium,Sold,15688,Student,Fast delivery | Free charger | Slight scratches,MFG-3938,7,Blue
+L0168,S136,ThinkPad,OnePlus,Phone,Poor,64,8,2025,Active,Bengaluru,4.2,9088,27039,1,89,23,145,58,High,Unsold,7101,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7033,1,White
+L0169,S119,Galaxy S,Xiaomi,Phone,Good,1024,8,2024,Active,Bengaluru,4,43564,66228,2,84,32,290,38,Low,Pending,40482,Business,Fast delivery | Free charger | Slight scratches,MFG-2703,2,Blue
+L0170,S118,Nord,OnePlus,Phone,Excellent,128,16,2025,Expired,Nagpur,4.5,5230,77434,1,92,33,417,7,Medium,Unsold,4535,Student,Fast delivery | Free charger | Slight scratches,MFG-9280,1,Blue
+L0171,S116,iPhone,OnePlus,Laptop,Average,512,32,2023,Expired,Bengaluru,4.1,14067,34616,3,100,22,88,53,Medium,Unsold,12154,Student,Fast delivery | Free charger | Slight scratches,MFG-4321,3,Blue
+L0172,S152,Galaxy S,Dell,Laptop,Good,512,8,2026,Expired,Bengaluru,4.6,12640,43566,0,83,26,245,31,Low,Sold,11349,Business,Fast delivery | Free charger | Slight scratches,MFG-1660,0,Blue
+L0173,S165,Galaxy S,HP,Laptop,Average,128,4,2022,Expired,Hyderabad,4.1,13201,53882,4,100,32,41,24,High,Pending,8695,Professional,Fast delivery | Free charger | Slight scratches,MFG-2551,4,Black
+L0174,S128,iPhone,Samsung,Laptop,Average,64,16,2018,Expired,Pune,4.5,35982,51645,8,86,30,134,46,Low,Sold,34363,Reseller,Fast delivery | Free charger | Slight scratches,MFG-3110,8,Red
+L0175,S173,Inspiron,Lenovo,Tablet,Poor,512,4,2022,Expired,Nagpur,4.4,19011,47119,4,84,31,360,49,Medium,Sold,16112,Professional,Fast delivery | Free charger | Slight scratches,MFG-4066,4,Green
+L0176,S131,Nord,OnePlus,Laptop,Poor,1024,12,2021,Active,Pune,4.7,17078,131919,5,90,33,87,29,Medium,Unsold,15954,Reseller,Fast delivery | Free charger | Slight scratches,MFG-4267,5,Yellow
+L0177,S148,Nord,OnePlus,Laptop,Poor,256,16,2025,Expired,Hyderabad,4.4,55462,80312,1,73,30,158,27,Medium,Sold,55249,Business,Fast delivery | Free charger | Slight scratches,MFG-4588,1,Red
+L0178,S174,iPhone,Samsung,Phone,Good,128,8,2021,Active,Mumbai,3.8,11908,30359,5,79,30,32,2,High,Unsold,9002,Professional,Fast delivery | Free charger | Slight scratches,MFG-3885,5,Blue
+L0179,S103,Nord,HP,Laptop,Good,,6,2026,Expired,Delhi,4.3,29583,98362,0,74,22,127,27,Medium,Sold,25566,Student,Fast delivery | Free charger | Slight scratches,MFG-2478,0,Red
+L0180,S178,iPhone,Lenovo,Phone,Average,128,8,2020,Active,Pune,3.9,89930,72359,6,92,29,740,18,Low,Pending,88770,Student,Fast delivery | Free charger | Slight scratches,MFG-9622,6,Green
+L0181,S143,ThinkPad,OnePlus,Phone,Good,512,32,2018,Expired,Nagpur,4.9,40892,112934,8,77,22,44,27,Medium,Sold,36289,Business,Fast delivery | Free charger | Slight scratches,MFG-4657,8,Yellow
+L0182,S122,Nord,Apple,Tablet,Poor,1024,4,2026,Active,Delhi,4.1,41472,60967,0,78,33,208,36,Medium,Pending,39663,Student,Fast delivery | Free charger | Slight scratches,MFG-9129,0,Blue
+L0183,S111,Nord,HP,Tablet,Average,512,4,2022,Expired,Mumbai,3.7,12877,35396,4,91,26,193,30,Low,Pending,12322,Business,Fast delivery | Free charger | Slight scratches,MFG-5205,4,Red
+L0184,S152,Inspiron,Xiaomi,Laptop,Poor,64,12,2017,Active,Mumbai,4.6,20954,27621,9,89,33,158,35,Medium,Sold,20681,Business,Fast delivery | Free charger | Slight scratches,MFG-1328,9,Green
+L0185,S109,Mi Pad,Apple,Laptop,Poor,64,12,2021,Active,Delhi,4.6,27997,42453,5,84,28,372,30,Medium,Sold,27559,Student,Fast delivery | Free charger | Slight scratches,MFG-6424,5,Blue
+L0186,S133,Nord,OnePlus,Laptop,Good,,4,2020,Expired,Delhi,4,20598,122290,6,96,32,84,10,High,Unsold,19340,Student,Fast delivery | Free charger | Slight scratches,MFG-6911,6,Red
+L0187,S125,Galaxy S,Apple,Phone,Good,256,4,2023,Expired,Pune,4.2,11694,37971,3,91,33,68,71,Medium,Unsold,7837,Reseller,Fast delivery | Free charger | Slight scratches,MFG-5341,3,Red
+L0188,S157,Galaxy S,OnePlus,Laptop,Poor,256,6,2025,Expired,Delhi,4,50647,116587,1,77,34,72,9,Low,Sold,49855,Student,Fast delivery | Free charger | Slight scratches,MFG-6632,1,White
+L0189,S153,Mi Pad,HP,Laptop,Good,512,8,2023,Active,Hyderabad,4.2,39601,74641,3,,28,138,19,High,Sold,35488,Professional,Fast delivery | Free charger | Slight scratches,MFG-2970,3,Black
+L0190,S154,Galaxy S,HP,Laptop,Good,128,16,2019,Expired,Bengaluru,4.8,25723,58821,7,70,26,215,20,High,Sold,25011,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7510,7,White
+L0191,S179,Mi Pad,Dell,Laptop,Excellent,512,6,2022,Active,Delhi,5,37213,87404,4,62,30,2500,42,High,Pending,36393,Student,Fast delivery | Free charger | Slight scratches,MFG-2654,4,Green
+L0192,S173,Mi Pad,Xiaomi,Phone,Good,256,12,2025,Active,Delhi,3.6,19870,105143,1,90,30,145,17,High,Pending,16580,Student,Fast delivery | Free charger | Slight scratches,MFG-7484,1,Green
+L0193,S102,ThinkPad,Lenovo,Laptop,Average,256,12,2020,Active,Mumbai,4.5,10194,27921,6,85,41,19,18,Low,Unsold,6565,Business,Fast delivery | Free charger | Slight scratches,MFG-5414,6,Yellow
+L0194,S162,Mi Pad,Lenovo,Laptop,Excellent,1024,6,2023,Active,Bengaluru,3.8,12215,38406,3,85,34,133,6,High,Pending,8911,Professional,Fast delivery | Free charger | Slight scratches,MFG-9589,3,White
+L0195,S131,Galaxy S,Xiaomi,Phone,Average,128,8,2017,Expired,Hyderabad,4.2,3338,60544,9,84,22,216,37,High,Unsold,2324,Student,Fast delivery | Free charger | Slight scratches,MFG-4963,9,Green
+L0196,S144,ThinkPad,Samsung,Laptop,Excellent,256,4,2024,Expired,Pune,5,80485,131943,2,80,34,107,49,Low,Pending,78730,Professional,Fast delivery | Free charger | Slight scratches,MFG-4688,2,Yellow
+L0197,S101,Inspiron,Samsung,Tablet,Good,1024,4,2020,Active,Bengaluru,4.4,42771,85538,6,68,36,49,,High,Unsold,40516,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7168,6,Green
+L0198,S179,Inspiron,Dell,Phone,Excellent,1024,32,2024,Expired,Delhi,3.8,45119,81059,2,87,28,142,34,High,Pending,40130,Business,Fast delivery | Free charger | Slight scratches,MFG-5890,2,Yellow
+L0199,S135,ThinkPad,HP,Tablet,Average,128,6,2018,Active,Pune,4.3,72077,141284,8,78,30,442,3,High,Unsold,69459,Professional,Fast delivery | Free charger | Slight scratches,MFG-1417,8,Yellow
+L0200,S104,Mi Pad,HP,Tablet,Good,256,32,2024,Active,Nagpur,4.1,31468,92490,2,72,39,49,12,High,Pending,27571,Business,Fast delivery | Free charger | Slight scratches,MFG-9311,2,Green
+L0201,S171,iPhone,HP,Laptop,Excellent,128,8,2019,Active,Nagpur,3.6,26027,62483,7,69,38,138,61,Medium,Unsold,23313,Business,Fast delivery | Free charger | Slight scratches,MFG-5269,7,White
+L0202,S174,Mi Pad,Dell,Phone,Poor,128,16,2021,Active,Nagpur,4.3,117038,136572,5,70,30,187,43,Medium,Pending,114594,Reseller,Fast delivery | Free charger | Slight scratches,MFG-1885,5,Blue
+L0203,S158,iPhone,OnePlus,Tablet,Good,64,12,2019,Expired,Nagpur,4.3,41288,67506,7,64,27,21,16,Low,Unsold,40813,Student,Fast delivery | Free charger | Slight scratches,MFG-8406,7,Green
+L0204,S111,iPhone,Dell,Laptop,Poor,512,12,2020,Expired,Hyderabad,4.5,15822,59198,6,73,27,16,53,Low,Sold,11450,Professional,Fast delivery | Free charger | Slight scratches,MFG-7112,6,Red
+L0205,S128,Nord,OnePlus,Laptop,Good,64,12,2022,Expired,Mumbai,3.9,66615,64958,4,20,28,498,30,Low,Sold,64173,Business,Fast delivery | Free charger | Slight scratches,MFG-8469,4,Yellow
+L0206,S162,ThinkPad,Lenovo,Phone,Good,512,4,2025,Active,Mumbai,4,63395,103561,1,71,28,16,51,High,Sold,61665,Student,Fast delivery | Free charger | Slight scratches,MFG-9267,1,Blue
+L0207,S132,Mi Pad,Dell,Phone,Excellent,64,32,2018,Active,Pune,4.1,73836,111099,8,59,29,68,16,High,Sold,70422,Reseller,Fast delivery | Free charger | Slight scratches,MFG-7230,8,Red
+L0208,S180,Galaxy S,OnePlus,Laptop,Excellent,1024,8,2025,Active,Hyderabad,3.9,20660,81253,1,79,32,169,32,Low,Pending,19696,Business,Fast delivery | Free charger | Slight scratches,MFG-2867,1,Red
+L0209,S125,ThinkPad,HP,Laptop,Average,128,4,2024,Expired,Mumbai,4.5,33901,67074,2,98,19,33,19,High,Unsold,31193,Professional,Fast delivery | Free charger | Slight scratches,MFG-1044,2,Red
+L0210,S111,Mi Pad,Apple,Tablet,Excellent,256,32,2018,Active,Hyderabad,4.1,3872,43948,8,,28,2,8,Medium,Unsold,69,Student,Fast delivery | Free charger | Slight scratches,MFG-2635,8,Blue
+L0211,S114,Galaxy S,Lenovo,Phone,Excellent,128,32,2017,Active,Bengaluru,4.4,38364,91170,9,70,23,223,53,Medium,Unsold,36167,Student,Fast delivery | Free charger | Slight scratches,MFG-7105,9,Green
+L0212,S149,Nord,Lenovo,Laptop,Poor,128,4,2019,Active,Nagpur,3.9,19020,44840,7,83,27,2,49,High,Sold,17715,Student,Fast delivery | Free charger | Slight scratches,MFG-7816,7,White
+L0213,S103,Nord,Lenovo,Tablet,Good,512,12,2024,Active,Hyderabad,3.5,52864,129861,2,83,19,227,30,Medium,Sold,52346,Business,Fast delivery | Free charger | Slight scratches,MFG-6148,2,Red
+L0214,S166,Nord,HP,Tablet,Excellent,512,32,2025,Active,Hyderabad,4.2,8239,73716,1,80,28,8,36,Medium,Pending,5087,Professional,Fast delivery | Free charger | Slight scratches,MFG-1894,1,Red
+L0215,S109,Inspiron,OnePlus,Phone,Average,256,4,2019,Active,Delhi,4.9,53139,147531,7,70,26,249,30,High,Unsold,49836,Professional,Fast delivery | Free charger | Slight scratches,MFG-2291,7,Black
+L0216,S163,Nord,HP,Phone,Excellent,512,12,2024,Active,Delhi,4.1,30280,132466,2,63,30,184,9,High,Sold,29536,Business,Fast delivery | Free charger | Slight scratches,MFG-9328,2,White
+L0217,S128,Inspiron,OnePlus,Tablet,Poor,256,32,2020,Expired,Pune,3.6,92486,134592,6,80,37,118,62,Low,Pending,90670,Student,Fast delivery | Free charger | Slight scratches,MFG-6592,6,Green
+L0218,S117,Nord,HP,Tablet,Poor,64,8,2021,Active,Mumbai,4.3,37168,113013,5,85,34,86,13,Low,Unsold,35402,Reseller,Fast delivery | Free charger | Slight scratches,MFG-4122,5,Yellow
+L0219,S175,Galaxy S,Lenovo,Laptop,Poor,1024,16,2022,Active,Hyderabad,4.1,29809,43250,4,72,40,124,35,Low,Pending,,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8912,4,White
+L0220,S176,Mi Pad,OnePlus,Tablet,Poor,512,16,2019,Active,Bengaluru,3.8,30092,60521,7,71,30,195,22,Medium,Unsold,27683,Reseller,Fast delivery | Free charger | Slight scratches,MFG-3185,7,Blue
+L0221,S170,Nord,Samsung,Phone,Good,1024,32,2023,Expired,Nagpur,3.4,62224,149294,3,75,35,74,60,Medium,Pending,61138,Professional,Fast delivery | Free charger | Slight scratches,MFG-9255,3,White
+L0222,S153,Nord,HP,Tablet,Average,512,4,2022,Active,Pune,4.2,16869,45252,4,69,15,31,5,Medium,Sold,16435,Student,Fast delivery | Free charger | Slight scratches,MFG-4275,4,Green
+L0223,S137,iPhone,Lenovo,Tablet,Excellent,256,12,2019,Active,Delhi,3.8,20920,90134,7,100,38,109,5,High,Pending,16318,Professional,Fast delivery | Free charger | Slight scratches,MFG-7371,7,Blue
+L0224,S153,Nord,OnePlus,Tablet,Excellent,64,32,2025,Expired,Mumbai,3.7,16452,90402,1,47,25,134,15,High,Unsold,14605,Business,Fast delivery | Free charger | Slight scratches,MFG-9955,1,Yellow
+L0225,S122,Nord,Apple,Phone,Good,1024,4,2026,Expired,Pune,4.3,17956,66503,0,71,16,159,3,Medium,Unsold,13397,Business,Fast delivery | Free charger | Slight scratches,MFG-3131,0,Blue
+L0226,S105,iPhone,OnePlus,Tablet,Excellent,1024,32,2026,Expired,Hyderabad,4.6,255425,81850,0,71,29,39,56,High,Pending,252492,Student,Fast delivery | Free charger | Slight scratches,MFG-6207,0,White
+L0227,S169,Mi Pad,Xiaomi,Phone,Average,128,6,2020,Expired,Bengaluru,3.9,46286,63200,6,89,31,246,20,Medium,Unsold,44497,Reseller,Fast delivery | Free charger | Slight scratches,MFG-1144,6,Red
+L0228,S131,Galaxy S,HP,Laptop,Poor,64,12,2022,Expired,Delhi,4.2,50661,131828,4,85,26,227,37,High,Unsold,50459,Business,Fast delivery | Free charger | Slight scratches,MFG-9426,4,White
+L0229,S165,Galaxy S,Apple,Phone,Excellent,64,6,2024,Active,Nagpur,4.6,,142612,2,100,29,69,36,Medium,Sold,100703,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2181,2,Yellow
+L0230,S106,iPhone,Lenovo,Laptop,Excellent,1024,6,2019,Expired,Hyderabad,4.7,9313,21226,7,76,30,63,36,Medium,Unsold,6000,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6183,7,Red
+L0231,S174,Galaxy S,HP,Phone,Average,1024,4,2023,Expired,Nagpur,4,20509,46013,3,90,36,3,,Medium,Pending,19801,Business,Fast delivery | Free charger | Slight scratches,MFG-8170,3,Black
+L0232,S150,Mi Pad,OnePlus,Tablet,Good,256,32,2023,Expired,Pune,3.7,15219,23079,3,84,37,75,62,High,Pending,14061,Student,Fast delivery | Free charger | Slight scratches,MFG-1684,3,Red
+L0233,S144,iPhone,Xiaomi,Tablet,Good,128,6,2026,Active,Delhi,4.3,17210,118306,0,68,26,268,18,Medium,Sold,16272,Professional,Fast delivery | Free charger | Slight scratches,MFG-1891,0,White
+L0234,S174,Inspiron,OnePlus,Laptop,Good,128,4,2024,Expired,Delhi,5,27832,34174,2,75,27,229,,Low,Sold,25229,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8383,2,Green
+L0235,S140,Inspiron,Samsung,Phone,Average,128,6,2026,Expired,Bengaluru,3.6,23323,95130,0,,22,150,18,Medium,Sold,20607,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8583,0,Black
+L0236,S110,ThinkPad,Lenovo,Phone,Good,256,32,2022,Active,Nagpur,4.9,55961,95077,4,68,33,529,26,Low,Sold,51807,Student,Fast delivery | Free charger | Slight scratches,MFG-7637,4,White
+L0237,S160,Nord,Lenovo,Phone,Average,512,6,2020,Expired,Mumbai,3.7,12958,24609,6,75,20,98,11,Medium,Pending,8777,Student,Fast delivery | Free charger | Slight scratches,MFG-7500,6,Green
+L0238,S178,Nord,Samsung,Tablet,Good,512,6,2025,Active,Delhi,4.7,6109,17776,1,96,32,46,57,High,Pending,4912,Reseller,Fast delivery | Free charger | Slight scratches,MFG-6878,1,Red
+L0239,S126,Mi Pad,Lenovo,Laptop,Poor,512,12,2020,Active,Pune,4.4,59433,142832,6,84,31,16,37,High,Unsold,58588,Business,Fast delivery | Free charger | Slight scratches,MFG-5314,6,White
+L0240,S109,Mi Pad,OnePlus,Laptop,Good,1024,12,2025,Expired,Bengaluru,4,6494,60573,1,78,22,474,4,Medium,Unsold,1545,Student,Fast delivery | Free charger | Slight scratches,MFG-9222,1,Blue
+L0241,S119,iPhone,Samsung,Laptop,Excellent,128,12,2024,Expired,Nagpur,3.5,24918,58412,2,78,32,85,17,Low,Unsold,20996,Reseller,Fast delivery | Free charger | Slight scratches,MFG-4452,2,White
+L0242,S120,iPhone,HP,Tablet,Excellent,1024,6,2019,Active,Mumbai,3.9,83679,122714,7,85,26,2,37,Medium,Sold,79447,Reseller,Fast delivery | Free charger | Slight scratches,MFG-1305,7,Yellow
+L0243,S161,iPhone,Samsung,Laptop,Good,1024,6,2021,Expired,Mumbai,4.4,6166,37478,5,96,31,12,35,High,Pending,3359,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2127,5,Blue
+L0244,S164,Nord,Xiaomi,Phone,Excellent,128,12,2023,Active,Delhi,3.4,60189,116046,3,,28,380,14,High,Sold,59426,Reseller,Fast delivery | Free charger | Slight scratches,MFG-3135,3,White
+L0245,S166,Inspiron,OnePlus,Phone,Poor,128,12,2025,Expired,Bengaluru,5,7227,15314,1,96,26,42,15,High,Pending,2508,Student,Fast delivery | Free charger | Slight scratches,MFG-7971,1,Blue
+L0246,S176,Mi Pad,Xiaomi,Laptop,Good,64,32,2021,Active,Delhi,3.9,36003,140079,5,84,24,79,18,High,Sold,31746,Student,Fast delivery | Free charger | Slight scratches,MFG-7144,5,Yellow
+L0247,S174,ThinkPad,OnePlus,Tablet,Poor,1024,8,2020,Expired,Nagpur,3.9,20513,97811,6,85,26,173,19,Medium,Sold,17128,Reseller,Fast delivery | Free charger | Slight scratches,MFG-3928,6,Green
+L0248,S150,Nord,Samsung,Tablet,Excellent,128,12,2025,Active,Pune,3.7,5550,141814,1,75,30,367,49,Low,Pending,2269,Business,Fast delivery | Free charger | Slight scratches,MFG-1852,1,Blue
+L0249,S176,Inspiron,Apple,Phone,Average,128,8,2023,Active,Delhi,4.1,3000,16386,3,73,34,104,32,Low,Pending,-148,Reseller,Fast delivery | Free charger | Slight scratches,MFG-9536,3,Green
+L0250,S156,Galaxy S,Samsung,Tablet,Average,128,4,2026,Active,Delhi,4.3,4691,30063,0,71,24,18,42,Low,Pending,4396,Business,Fast delivery | Free charger | Slight scratches,MFG-4919,0,Yellow
+L0251,S150,Inspiron,Dell,Phone,Excellent,64,4,2017,Expired,Nagpur,4.4,42377,56273,9,69,19,37,107,High,Pending,39526,Business,Fast delivery | Free charger | Slight scratches,MFG-5530,9,Blue
+L0252,S122,Inspiron,Dell,Phone,Excellent,1024,8,2026,Expired,Pune,4.7,22757,65993,0,61,24,2500,63,High,Unsold,18351,Business,Fast delivery | Free charger | Slight scratches,MFG-8254,0,Black
+L0253,S158,Nord,Xiaomi,Tablet,Excellent,512,4,2026,Expired,Pune,,72963,141780,0,91,23,18,11,Medium,Pending,71158,Professional,Fast delivery | Free charger | Slight scratches,MFG-6172,0,Black
+L0254,S151,Nord,HP,Laptop,Excellent,1024,6,2022,Expired,Bengaluru,4.2,9000,17548,4,55,31,2,30,Medium,Sold,4301,Business,Fast delivery | Free charger | Slight scratches,MFG-3994,4,Yellow
+L0255,S133,iPhone,Samsung,Phone,Good,1024,8,2020,Active,Pune,4.8,31294,145809,6,99,35,258,23,Low,Sold,27259,Student,Fast delivery | Free charger | Slight scratches,MFG-9871,6,Red
+L0256,S173,ThinkPad,Xiaomi,Phone,Average,512,6,2024,Active,Pune,4.1,55198,112306,2,80,20,,13,High,Unsold,51280,Student,Fast delivery | Free charger | Slight scratches,MFG-9232,2,Green
+L0257,S140,Nord,Apple,Phone,Good,512,16,2023,Active,Bengaluru,4.5,23320,60822,3,77,27,880,3,Medium,Pending,21193,Professional,Fast delivery | Free charger | Slight scratches,MFG-9987,3,Green
+L0258,S163,Inspiron,Samsung,Laptop,Average,256,12,2020,Expired,Hyderabad,4.1,38247,85623,6,94,35,1,48,Low,Pending,37173,Professional,Fast delivery | Free charger | Slight scratches,MFG-2636,6,Yellow
+L0259,S119,Inspiron,Lenovo,Phone,Good,512,12,2021,Active,Nagpur,4.8,49013,76814,5,96,33,208,26,High,Pending,46427,Reseller,Fast delivery | Free charger | Slight scratches,MFG-5915,5,Green
+L0260,S132,Inspiron,Lenovo,Tablet,Excellent,512,32,2025,Expired,Bengaluru,4.6,5462,27506,1,85,31,213,29,Medium,Unsold,872,Business,Fast delivery | Free charger | Slight scratches,MFG-6638,1,Red
+L0261,S173,Mi Pad,HP,Tablet,Good,256,8,2023,Expired,Nagpur,3.8,10983,46781,3,79,29,33,9,High,Unsold,7322,Student,Fast delivery | Free charger | Slight scratches,MFG-7243,3,White
+L0262,S143,Inspiron,HP,Tablet,Poor,64,4,2021,Active,Bengaluru,4.6,19348,136569,5,93,32,,17,Low,Unsold,16753,Business,Fast delivery | Free charger | Slight scratches,MFG-5382,5,White
+L0263,S175,Mi Pad,Xiaomi,Laptop,Good,128,4,2023,Active,Nagpur,3.6,12049,86106,3,72,35,135,45,Low,Pending,9988,Student,Fast delivery | Free charger | Slight scratches,MFG-4450,3,Blue
+L0264,S106,Galaxy S,Lenovo,Laptop,Excellent,64,8,2023,Active,Pune,3.6,4647,42003,3,78,27,122,35,High,Unsold,2113,Professional,Fast delivery | Free charger | Slight scratches,MFG-5053,3,Yellow
+L0265,S103,Galaxy S,HP,Laptop,Average,512,12,2021,Expired,Delhi,3.7,52366,131171,5,89,35,292,38,Medium,Sold,47949,Professional,Fast delivery | Free charger | Slight scratches,MFG-8480,5,Yellow
+L0266,S144,Inspiron,Dell,Phone,Excellent,512,8,2026,Expired,Hyderabad,4.5,70261,129026,0,88,36,216,60,Medium,Sold,67775,Student,Fast delivery | Free charger | Slight scratches,MFG-1001,0,White
+L0267,S162,Inspiron,OnePlus,Phone,Poor,256,16,2019,Active,Pune,3.8,58228,105147,7,83,25,212,25,High,Unsold,56684,Reseller,Fast delivery | Free charger | Slight scratches,MFG-8161,7,Black
+L0268,S128,ThinkPad,Apple,Laptop,Good,1024,16,2020,Expired,Bengaluru,4.4,38095,57800,6,87,31,35,53,High,Pending,33738,Business,Fast delivery | Free charger | Slight scratches,MFG-7765,6,Blue
+L0269,S157,ThinkPad,HP,Tablet,Poor,128,8,2018,Active,Mumbai,3.9,46920,62816,8,100,32,179,,Low,Pending,46739,Professional,Fast delivery | Free charger | Slight scratches,MFG-2675,8,Green
+L0270,S119,Galaxy S,Xiaomi,Phone,Average,512,8,2021,Expired,Bengaluru,4.8,16737,47778,5,,36,272,36,Medium,Pending,16478,Business,Fast delivery | Free charger | Slight scratches,MFG-2314,5,Blue
+L0271,S124,ThinkPad,Lenovo,Laptop,Excellent,64,32,2017,Active,Hyderabad,5,27037,84862,9,84,28,48,8,Medium,Sold,26763,Professional,Fast delivery | Free charger | Slight scratches,MFG-8550,9,Yellow
+L0272,S141,iPhone,HP,Tablet,Excellent,1024,16,2018,Active,Bengaluru,4.6,52157,69643,8,80,24,319,31,Medium,Pending,49710,Professional,Fast delivery | Free charger | Slight scratches,MFG-6905,8,Red
+L0273,S135,Mi Pad,Apple,Laptop,Good,64,4,2020,Expired,Nagpur,4.1,10684,44603,6,90,41,2500,16,High,Sold,7642,Student,Fast delivery | Free charger | Slight scratches,MFG-5075,6,Blue
+L0274,S180,Galaxy S,Apple,Laptop,Good,1024,4,2024,Active,Hyderabad,3.4,11058,38960,2,64,35,15,20,Low,Unsold,6484,Business,Fast delivery | Free charger | Slight scratches,MFG-8187,2,Yellow
+L0275,S105,Inspiron,HP,Laptop,Average,1024,32,2020,Expired,Mumbai,4.3,7595,20597,6,78,35,65,17,High,Sold,3142,Business,Fast delivery | Free charger | Slight scratches,MFG-6303,6,Yellow
+L0276,S120,Galaxy S,Dell,Phone,Poor,256,8,2024,Expired,Hyderabad,4.3,51925,87174,2,62,30,124,22,Low,Pending,47781,Reseller,Fast delivery | Free charger | Slight scratches,MFG-4039,2,Red
+L0277,S168,Inspiron,Samsung,Tablet,Poor,1024,6,2026,Expired,Bengaluru,4,22314,110440,0,64,29,92,47,Medium,Pending,19676,Student,Fast delivery | Free charger | Slight scratches,MFG-2577,0,White
+L0278,S125,Galaxy S,Xiaomi,Phone,Excellent,64,16,2018,Expired,Nagpur,3.7,7415,26475,8,77,30,115,44,Medium,Pending,2580,Business,Fast delivery | Free charger | Slight scratches,MFG-1804,8,Green
+L0279,S110,Inspiron,Lenovo,Tablet,Excellent,256,16,2020,Expired,Bengaluru,3.8,29045,33579,6,81,34,294,4,High,Sold,26868,Student,Fast delivery | Free charger | Slight scratches,MFG-2153,6,Green
+L0280,S168,Inspiron,Samsung,Phone,Good,1024,32,2018,Active,Delhi,3.8,46459,71596,8,69,31,120,40,High,Pending,43058,Student,Fast delivery | Free charger | Slight scratches,MFG-6864,8,Yellow
+L0281,S151,Mi Pad,OnePlus,Tablet,Good,1024,16,2024,Expired,Bengaluru,4.3,,126955,2,76,35,50,9,Medium,Pending,67891,Business,Fast delivery | Free charger | Slight scratches,MFG-7755,2,Yellow
+L0282,S170,Nord,OnePlus,Laptop,Poor,,12,2023,Active,Nagpur,4,54535,99790,3,,26,37,10,Low,Unsold,49655,Student,Fast delivery | Free charger | Slight scratches,MFG-9480,3,Blue
+L0283,S102,Nord,Lenovo,Laptop,Good,64,4,2021,Expired,Bengaluru,3.9,6750,16721,5,94,30,24,2,Low,Sold,4580,Business,Fast delivery | Free charger | Slight scratches,MFG-5093,5,Blue
+L0284,S109,Nord,OnePlus,Laptop,Good,512,32,2021,Active,Delhi,5,34490,93722,5,97,28,25,21,High,Unsold,34184,Reseller,Fast delivery | Free charger | Slight scratches,MFG-2285,5,Red
+L0285,S115,iPhone,HP,Tablet,Excellent,512,4,2022,Expired,Delhi,5,13790,106207,4,60,29,362,36,Low,Unsold,9367,Professional,Fast delivery | Free charger | Slight scratches,MFG-6354,4,White
+L0286,S157,Mi Pad,Dell,Tablet,Excellent,128,12,2020,Expired,Hyderabad,4.7,7710,55159,6,84,28,49,11,Low,Sold,,Student,Fast delivery | Free charger | Slight scratches,MFG-8796,6,White
+L0287,S116,iPhone,Xiaomi,Tablet,Good,512,12,2017,Active,Delhi,4.5,48345,119645,9,89,30,125,21,High,Pending,44051,Professional,Fast delivery | Free charger | Slight scratches,MFG-4970,9,Red
+L0288,S152,Inspiron,OnePlus,Laptop,Good,256,8,2021,Active,Bengaluru,,56748,127739,5,87,38,46,28,Low,Unsold,53126,Professional,Fast delivery | Free charger | Slight scratches,MFG-8216,5,Red
+L0289,S110,Galaxy S,HP,Phone,Good,1024,6,2020,Expired,Pune,4.1,30560,67346,6,96,26,56,15,Medium,Pending,29649,Business,Fast delivery | Free charger | Slight scratches,MFG-8373,6,Black
+L0290,S166,ThinkPad,Dell,Laptop,Good,64,12,2017,Active,Bengaluru,3.5,49715,101999,9,71,29,516,31,Low,Sold,,Professional,Fast delivery | Free charger | Slight scratches,MFG-5444,9,Red
+L0291,S146,Galaxy S,Apple,Laptop,Poor,128,12,2024,Active,Bengaluru,5,5568,17184,2,97,39,255,10,Medium,Pending,1214,Student,Fast delivery | Free charger | Slight scratches,MFG-4054,2,Blue
+L0292,S167,ThinkPad,OnePlus,Laptop,Poor,128,4,2025,Expired,Nagpur,4.3,16164,135058,1,73,26,266,3,Medium,Unsold,13688,Professional,Fast delivery | Free charger | Slight scratches,MFG-9212,1,Green
+L0293,S103,Mi Pad,OnePlus,Phone,Good,256,12,2017,Active,Pune,4.2,68810,82549,9,100,34,18,47,High,Unsold,64545,Professional,Fast delivery | Free charger | Slight scratches,MFG-7837,9,Blue
+L0294,S157,Mi Pad,Samsung,Phone,Good,1024,16,2026,Active,Mumbai,3.7,31259,55042,0,86,20,16,36,Medium,Pending,,Professional,Fast delivery | Free charger | Slight scratches,MFG-8046,0,Blue
+L0295,S115,iPhone,OnePlus,Phone,Excellent,256,12,2026,Expired,Bengaluru,3.6,20125,56431,0,79,46,16,30,Medium,Pending,17883,Professional,Fast delivery | Free charger | Slight scratches,MFG-4079,0,Red
+L0296,S177,Mi Pad,Dell,Phone,Good,128,32,2019,Active,Bengaluru,3.4,20586,63430,7,66,30,142,20,Low,Pending,,Professional,Fast delivery | Free charger | Slight scratches,MFG-9230,7,White
+L0297,S120,iPhone,Samsung,Phone,Poor,64,8,2024,Expired,Mumbai,2.9,,113031,2,92,25,13,5,High,Pending,71760,Professional,Fast delivery | Free charger | Slight scratches,MFG-2083,2,Blue
+L0298,S154,Inspiron,Lenovo,Phone,Poor,256,12,2024,Active,Delhi,4.4,58024,143435,2,86,28,18,21,Low,Unsold,54282,Student,Fast delivery | Free charger | Slight scratches,MFG-5025,2,White
+L0299,S180,Galaxy S,Samsung,Laptop,Poor,512,8,2025,Expired,Hyderabad,4.1,79873,118707,1,86,41,10,10,Low,Unsold,77462,Student,Fast delivery | Free charger | Slight scratches,MFG-9470,1,Blue
+L0300,S174,Nord,Dell,Phone,Poor,512,8,2024,Expired,Pune,4,59087,133409,2,86,28,141,34,Low,Unsold,54252,Professional,Fast delivery | Free charger | Slight scratches,MFG-8449,2,Red
